@@ -1,9 +1,9 @@
 body {
-    padding-top: 70 px;
+    padding-top: 70px;
     padding-bottom: 70px;
     background: #333;
     color: white;
 }
 #output {
-    
+    display: none;   
 }
